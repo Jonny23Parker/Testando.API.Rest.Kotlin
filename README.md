@@ -1,24 +1,19 @@
-# 242_DocumentandoTestandoAPIRestKotlin
- Documentando e Testando sua API Rest com Kotlin
-
-###### DESCRIÇÃO
-
-O desafio de projeto "Documentando e Testando sua API Rest com Kotlin" tem como objetivo desenvolver habilidades na criação de documentação e testes para uma API Rest utilizando a linguagem Kotlin. O desafio consistirá em criar uma API Rest completa, documentar seus endpoints utilizando a especificação OpenAPI e implementar testes automatizados para garantir o funcionamento correto da API. Além disso, o desafio irá estimular o uso de boas práticas de programação e a compreensão dos conceitos fundamentais de testes e documentação de APIs Rest.
-
-**Kotlin****Spring Framework****Spring Boot**
-
-------
-
-###### Back-End
-
-###### Intermediário
-
-------
-
-###### ESPECIALISTA
-
-![author](https://hermes.dio.me/users/author/photos/566255ca-e875-445d-814f-0ae10ad12448.jpg)
-
-###### Camila Cavalcante
-
-Tech Education Coordinator, DIO[**](https://www.linkedin.com/in/cami-la/) [**](https://web.dio.me/project/documentando-e-testando-sua-api-rest-com-kotlin/learning/github.com/cami-la)
+Entendendo o Desafio
+ 
+Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
+ 
+Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
+ 
+Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
+ 
+Repositório Git
+ 
+O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre reforçamos sua importância em nossa metodologia educacional. Por isso, todo código-fonte desenvolvido durante este conteúdo foi versionado no seguinte endereço para que você possa consultá-lo a qualquer momento:
+ 
+https://github.com/cami-la/credit-application-system 
+ 
+Gist:
+https://gist.github.com/cami-la/560b455b901778391abd2c9edea81286
+ 
+ 
+Bons estudos 😉
